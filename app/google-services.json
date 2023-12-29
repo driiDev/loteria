@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189996631906",
+    "project_id": "loteria-do-ifsul",
+    "storage_bucket": "loteria-do-ifsul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189996631906:android:d3c55479d785b430148e3b",
+        "android_client_info": {
+          "package_name": "com.andri.loteriadoifsul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHrJRaRJM0ZS1WbfLpMJh-bZyfNsc-MCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

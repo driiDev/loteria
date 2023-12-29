@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="verdeClaro">#6ceca4</color>
+    <color name="verdeEscuro">#5cac7c</color>
+    <color name="rosa">#dc80c6</color>
+    <color name="roxo">#8464ec</color>
+    <color name="marrom">#bfaf83</color>
+    <color name="laranja">#fcac64</color>
+    <color name="roxoBack">#FFC6BBDA</color>
+    <color name="roxoTitulo">#3C1188</color>
+</resources>
